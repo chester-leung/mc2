@@ -12,14 +12,10 @@ This project extends the existing XGBoost gradient boosting machine learning fra
 ![federated diagram](./images/federated-xgboost-diagram.png)
 
 ### _Finding a Split_
- 
- ![diagram 1](./images/detail_1.png)
-
- ![diagram 2](./images/detail_2.png)
-
- ![diagram 3](./images/detail_3.png)
- 
- ![diagram 4](./images/detail_4.png)
+| | |
+| - | - | 
+| ![diagram 1](./images/detail_1.png) | ![diagram 2](./images/detail_2.png) |
+| ![diagram 3](./images/detail_3.png) | ![diagram 4](./images/detail_4.png) |
 
 The above four steps are looped to create one decision tree.
 
